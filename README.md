@@ -37,7 +37,7 @@ I now created a new virtual machine. For this project I have named my VM DC-1 us
 <br />
 <br />
 Under networking tab for the virtual machine I made sure to put my virtual network in the active directory vent that I just created. I have now finished creating my virtual machine.  <br/>
-<img src="https://imgur.com/5T1rqTD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ro8LQ3K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Now that I have created my resource group, virtual network, subnet, and my domain controller VM, I am going to make another VM and name it Client-1. I will then attach it to the same region and Virtual Network as DC-1  <br/>
